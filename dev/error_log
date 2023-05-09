@@ -1,0 +1,94 @@
+[07-Mar-2020 06:56:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:41 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[07-Mar-2020 06:56:41 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[07-Mar-2020 06:56:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[19-Mar-2020 08:37:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[19-Mar-2020 08:37:46 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[19-Mar-2020 08:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[19-Mar-2020 08:37:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[19-Mar-2020 08:37:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[19-Mar-2020 08:37:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[19-Mar-2020 08:37:51 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[19-Mar-2020 08:37:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[19-Mar-2020 08:37:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[27-Apr-2020 08:36:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[27-Apr-2020 08:36:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[27-Apr-2020 08:36:49 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[27-Apr-2020 08:36:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[27-Apr-2020 08:36:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[28-Apr-2020 08:45:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[28-Apr-2020 08:45:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[28-Apr-2020 08:45:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[28-Apr-2020 08:45:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[28-Apr-2020 08:45:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[28-Apr-2020 08:45:37 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[28-Apr-2020 08:45:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[28-Apr-2020 08:45:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[15-May-2020 10:45:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[15-May-2020 10:45:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[15-May-2020 10:51:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/common_includes.php on line 14
+[15-May-2020 10:51:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/common_includes.php on line 14
+[16-May-2020 08:35:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[16-May-2020 08:35:46 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[16-May-2020 08:35:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[16-May-2020 08:35:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[16-May-2020 08:35:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[16-May-2020 08:35:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[16-May-2020 08:35:55 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[16-May-2020 08:35:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[16-May-2020 08:35:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18
+[18-May-2020 10:18:29 UTC] PHP Warning:  Use of undefined constant APP_NAME - assumed 'APP_NAME' (this will throw an Error in a future version of PHP) in /home/easythe/public_html/digitaldarts.com.au/relatedposts/hook.php on line 5
+[18-May-2020 10:18:29 UTC] PHP Warning:  Use of undefined constant APP_NAME - assumed 'APP_NAME' (this will throw an Error in a future version of PHP) in /home/easythe/public_html/digitaldarts.com.au/relatedposts/hook.php on line 6
+[18-May-2020 10:18:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/hook.php on line 14
+[18-May-2020 10:18:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/hook.php on line 15
+[18-May-2020 10:18:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 16
+[18-May-2020 10:18:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/timestamp.php on line 18

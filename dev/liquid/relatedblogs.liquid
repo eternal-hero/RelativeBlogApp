@@ -1,0 +1,5 @@
+{% assign rb_page_name = "rb_article_" | append: article.id %}
+{% capture the_snippet_content %}{% include rb_page_name %}{% endcapture %}
+{% unless the_snippet_content contains "Liquid error" %}
+  {% include rb_page_name %}
+{% endunless %}

@@ -1,0 +1,37 @@
+
+<!--<script>
+window.related = window.related === undefined ? {} : window.related;
+related.shop = "{{ shop.permanent_domain }}";
+{% assign t = template | prepend: '/' | append: '.' %}
+related.data = {
+  article: {{ article.id}},
+  tags: {{ article.tags | join: ',' | json}},
+  handle: "{{article.handle}}",
+};
+
+
+
+
+</script>-->
+
+<script>
+    if(!window.jQuery){
+    let script = document.createElement('script');
+    document.head.appendChild(script);
+    script.type = 'text/javascript';
+    script.src = "//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js";
+    script.onload
+}
+    </script>
+
+
+{% schema %}
+  {
+    "name": "Blog Posts",
+    "templates": ["blog"],
+    "target": "body",
+    "javascript": "app-block.js",
+    "stylesheet": "style.css",
+    "settings": []
+  }
+{% endschema %}

@@ -1,0 +1,120 @@
+div#html_value {
+    grid-template-columns: 1fr 1fr;
+    column-gap: var(--grid-desktop-horizontal-spacing);
+    row-gap: var(--grid-desktop-vertical-spacing);
+    display: grid;
+    margin-top: 31px;
+}
+
+.article:hover img {
+    transform: scale(1.03);
+}
+
+
+.article img {
+    transition: ease all 0.5s;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.article_value {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 10px;
+}
+
+div#html_value {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(500px,1fr));
+    gap: 10px;
+}
+
+.article a img {
+    width: 100%;
+}
+
+select#tag {
+    padding: 7px 5px;
+    width: 147px;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid #dadada;
+    font-size: 15px;
+    -webkit-appearance: none;
+   -moz-appearance:    none;
+   appearance:         none;
+   background-image: url("https://icon-library.com/images/drop-down-icon/drop-down-icon-4.jpg");
+   background-position: 94%;
+   background-size: 10px;
+   background-repeat: no-repeat;
+}
+
+
+select#tag:focus,*:focus-visible {
+   outline: none;
+   outline-offset: 0rem;
+   box-shadow: none;
+
+}
+
+.article_value a, .article_value h2, .article_value p {
+    width: 100%;
+    margin: 5px 0;
+}
+
+div#article_list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 20px;
+}
+
+
+
+div#article_list div img {
+    width: 100% !important;
+    object-fit: cover;
+    height: 300px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+div#article_list {
+    flex-wrap: wrap;
+}
+
+div#nav a.active:after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    background: rgb(var(--color-foreground));
+    height: 1px;
+    bottom: 0;
+    left: 0;
+}
+
+
+.article{
+    width:100%;
+    /* display: table-row !important;  */
+}
+
+
+div#nav {
+    display: flex;
+    justify-content: center;
+}
+
+div#nav a {
+    margin: 0 20px;
+    color: rgb(var(--color-foreground));
+    position: relative;
+    text-decoration: none;
+
+    }
+
+    div#nav a.active {
+        margin: 0 20px;
+        
+        }

@@ -1,0 +1,12 @@
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=15343 in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 4
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/db_login_detail.php on line 8
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 20
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 21
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 26
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 27
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 259
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 260
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 354
+[23-Mar-2020 02:00:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/easythe/public_html/digitaldarts.com.au/relatedposts/admin/home.php on line 355
